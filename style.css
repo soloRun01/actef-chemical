@@ -652,10 +652,17 @@ body{
   cursor: pointer;
 }
 
-
+ .four{
+    border: 1px solid black;
+  }
+  
 }
 
 
+ .four{
+    border: 1px solid black;
+  }
+  
 @media (max-width: 424px) {
   .home-img-banner{
     width: 70%;
