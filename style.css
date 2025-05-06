@@ -655,7 +655,9 @@ body{
   background: grey;
   cursor: pointer;
 }
-
+.product h1 a{
+  display:none;
+}
 
 }
 
