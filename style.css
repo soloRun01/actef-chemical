@@ -519,7 +519,6 @@ body{
 .product{
   width: 88%;
   height: 38%;
-  background: grey;
   border-radius: 10px;
   cursor: pointer;
 }
@@ -559,7 +558,7 @@ body{
   body {
     overflow-x: hidden;
   }
-  
+
 
 
   .border-home-title{
