@@ -139,7 +139,7 @@ body{
 .product{
   width: 48%;
   height: 58%;
-  background: grey;
+
   border-radius: 10px;
   cursor: pointer;
 }
