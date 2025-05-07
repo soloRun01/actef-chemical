@@ -345,7 +345,7 @@ width: 97%;
     
 .about{
   height: 140vh;
-  flex-direction: column;
+  flex-direction: column-reverse;
 }
 body{
   overflow-x: hidden;
@@ -616,7 +616,7 @@ body{
 
 .about{
   height: 140vh;
-  flex-direction: column;
+  flex-direction: column-reverse;
 }
 body{
   overflow-x: hidden;
