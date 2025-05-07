@@ -345,7 +345,7 @@ width: 97%;
     
 .about{
   height: 140vh;
-  flex-direction: column-reverse;
+  flex-direction: column;
 }
 body{
   overflow-x: hidden;
@@ -575,6 +575,7 @@ body{
 
   .about{
       height: 50vh;
+      flex-direction: column;
   }
     
   .reasons li {
