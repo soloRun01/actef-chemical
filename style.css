@@ -807,5 +807,11 @@ body{
     margin: 0 1px;
   }
   
+  .product h1 a{
+    display: none;
+  }
+}
 
+.product h1 a{
+  display: none;
 }
