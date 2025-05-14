@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solorun01.github.io/actef-chemical
