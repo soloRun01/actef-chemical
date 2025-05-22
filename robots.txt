@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://solorun01.github.io/actef-chemical/sitemap.xml
+Sitemap: https://solorun01.github.io/actef-chemical/sitemap.txt
